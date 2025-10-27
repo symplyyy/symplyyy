@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Timéo 👋</h1>
 <p align="center">
   💻 Full-stack Web Developer — Front & Back<br/>
-  📍 Strasbourg, France
+  📍 Lille, France
 </p>
 
 ---
